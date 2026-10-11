@@ -1,0 +1,6 @@
+[flake8]
+per-file-ignores =
+    docs_src/dependencies/tutorial007_py310.py:F821
+    docs_src/dependencies/tutorial008_an_py310.py:F821
+    docs_src/dependencies/tutorial008_py310.py:F821
+    docs_src/dependencies/tutorial010_py310.py:F821
